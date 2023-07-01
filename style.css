@@ -62,7 +62,7 @@ button {
 }
 
 form button:last-child {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .error-message {
