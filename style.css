@@ -61,6 +61,10 @@ button {
   cursor: pointer;
 }
 
+button[name="resetar"] {
+  margin-right: 20px;
+}
+
 .error-message {
   color: red;
   margin-top: 10px;
