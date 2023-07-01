@@ -61,8 +61,8 @@ button {
   cursor: pointer;
 }
 
-button[name="resetar"] {
-  margin-right: 20px;
+form button:last-child {
+  margin-left: 10px;
 }
 
 .error-message {
